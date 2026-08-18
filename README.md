@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0049-group-anagrams) |
 | [2029-stone-game-ix](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2029-stone-game-ix) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Two Pointers
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0049-group-anagrams) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Matrix
 |  |
@@ -85,8 +87,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0049-group-anagrams) |
 ## Sliding Window
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
