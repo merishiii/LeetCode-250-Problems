@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0037-sudoku-solver) |
 | [2029-stone-game-ix](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2029-stone-game-ix) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0037-sudoku-solver) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Matrix
 |  |
 | ------- |
