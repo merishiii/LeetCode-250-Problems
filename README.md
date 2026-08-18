@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [2029-stone-game-ix](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2029-stone-game-ix) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Two Pointers
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Matrix
 |  |
@@ -105,12 +107,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Tree
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
