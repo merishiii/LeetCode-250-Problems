@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0133-clone-graph](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0133-clone-graph) |
 | [1386-cinema-seat-allocation](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1386-cinema-seat-allocation) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0126-word-ladder-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0127-word-ladder) |
+| [0133-clone-graph](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0133-clone-graph) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -204,4 +206,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0128-longest-consecutive-sequence) |
+## Depth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0133-clone-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
