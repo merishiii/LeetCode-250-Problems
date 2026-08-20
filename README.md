@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0140-word-break-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0140-word-break-ii) |
 | [1386-cinema-seat-allocation](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2029-stone-game-ix) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0138-copy-list-with-random-pointer) |
+| [0140-word-break-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0140-word-break-ii) |
 | [1386-cinema-seat-allocation](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1386-cinema-seat-allocation) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0037-sudoku-solver) |
 | [0126-word-ladder-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0126-word-ladder-ii) |
+| [0140-word-break-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0140-word-break-ii) |
 ## Algorithm X
 |  |
 | ------- |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0127-word-ladder) |
+| [0140-word-break-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0140-word-break-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -166,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0032-longest-valid-parentheses) |
+| [0140-word-break-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0140-word-break-ii) |
 ## Manacher
 |  |
 | ------- |
@@ -219,4 +224,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0138-copy-list-with-random-pointer) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0140-word-break-ii) |
+## Memoization
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
