@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0062-unique-paths) |
 | [2029-stone-game-ix](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Greedy
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0032-longest-valid-parentheses) |
+| [0062-unique-paths](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0062-unique-paths) |
 | [0140-word-break-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0140-word-break-ii) |
 ## Manacher
 |  |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0062-unique-paths) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Number Theory
 |  |
