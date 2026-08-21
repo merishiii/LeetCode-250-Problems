@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0067-add-binary) |
 | [2029-stone-game-ix](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Greedy
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0127-word-ladder) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0067-add-binary) |
 | [1386-cinema-seat-allocation](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Dynamic Programming
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0067-add-binary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Union-Find
 |  |
