@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0066-plus-one) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0056-merge-intervals) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -279,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0069-sqrtx) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
