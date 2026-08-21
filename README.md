@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0048-rotate-image) |
 | [2029-stone-game-ix](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Greedy
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0048-rotate-image) |
 ## Backtracking
 |  |
 | ------- |
