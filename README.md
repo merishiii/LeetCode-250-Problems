@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0128-longest-consecutive-sequence) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0088-merge-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
