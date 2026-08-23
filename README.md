@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0141-linked-list-cycle) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Math
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2029-stone-game-ix) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Minimax
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0140-word-break-ii) |
 | [1927-sum-game](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0140-word-break-ii) |
 | [1140-stone-game-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1510-stone-game-iv) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Manacher
 |  |
 | ------- |
