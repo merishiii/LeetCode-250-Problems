@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0141-linked-list-cycle) |
 | [1386-cinema-seat-allocation](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1386-cinema-seat-allocation) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Matrix
 |  |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0076-minimum-window-substring) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Sorting
 |  |
 | ------- |
