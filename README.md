@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Greedy
 |  |
@@ -375,4 +376,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1140-stone-game-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
