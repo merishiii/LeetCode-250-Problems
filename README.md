@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0137-single-number-ii) |
 | [0140-word-break-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0260-single-number-iii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0268-missing-number) |
 | [1140-stone-game-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1140-stone-game-ii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0268-missing-number) |
 | [1140-stone-game-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1510-stone-game-iv) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Simulation
 |  |
 | ------- |
