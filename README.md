@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0268-missing-number](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0268-missing-number) |
 | [1140-stone-game-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1510-stone-game-iv) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0140-word-break-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0140-word-break-ii) |
 | [1140-stone-game-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1510-stone-game-iv) |
@@ -394,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Segment Tree
 |  |
