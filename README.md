@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0669-trim-a-binary-search-tree](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0669-trim-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0669-trim-a-binary-search-tree](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0669-trim-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0133-clone-graph](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0133-clone-graph) |
+| [0669-trim-a-binary-search-tree](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0669-trim-a-binary-search-tree) |
 | [3310-remove-methods-from-project](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0669-trim-a-binary-search-tree) |
 ## Segment Tree
 |  |
 | ------- |
