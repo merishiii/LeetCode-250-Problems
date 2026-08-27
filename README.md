@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0187-repeated-dna-sequences](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1386-cinema-seat-allocation) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0166-fraction-to-recurring-decimal](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0187-repeated-dna-sequences](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0205-isomorphic-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1927-sum-game) |
