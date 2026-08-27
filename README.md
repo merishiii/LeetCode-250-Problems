@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0033-search-in-rotated-sorted-array) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0010-regular-expression-matching) |
+| [0014-longest-common-prefix](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0014-longest-common-prefix) |
 | [0140-word-break-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0140-word-break-ii) |
 ## Memoization
 |  |
