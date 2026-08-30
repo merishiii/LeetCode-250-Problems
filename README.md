@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0078-subsets) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0079-word-search) |
 ## Backtracking
 |  |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0096-unique-binary-search-trees) |
