@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0078-subsets) |
