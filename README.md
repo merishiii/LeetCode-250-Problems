@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0137-single-number-ii) |
 | [0140-word-break-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0149-max-points-on-a-line) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0135-candy) |
 | [1382-balance-a-binary-search-tree](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1903-largest-odd-number-in-string](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1903-largest-odd-number-in-string) |
