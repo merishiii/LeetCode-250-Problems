@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0134-gas-station) |
 | [1382-balance-a-binary-search-tree](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1382-balance-a-binary-search-tree) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0067-add-binary) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0062-unique-paths) |
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0060-permutation-sequence) |
 ## Bracket Sequences
