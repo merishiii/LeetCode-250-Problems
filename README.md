@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0321-create-maximum-number](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0321-create-maximum-number) |
 | [1140-stone-game-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0321-create-maximum-number](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0321-create-maximum-number) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Math
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0321-create-maximum-number) |
 | [1382-balance-a-binary-search-tree](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1903-largest-odd-number-in-string](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1903-largest-odd-number-in-string) |
@@ -444,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0173-binary-search-tree-iterator](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0316-remove-duplicate-letters](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0321-create-maximum-number) |
 | [1021-remove-outermost-parentheses](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1021-remove-outermost-parentheses) |
 ## Simulation
 |  |
@@ -616,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0321-create-maximum-number) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
