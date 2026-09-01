@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0321-create-maximum-number](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0321-create-maximum-number) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0268-missing-number) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0148-sort-list) |
 | [1382-balance-a-binary-search-tree](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1382-balance-a-binary-search-tree) |
 ## Tree
 |  |
@@ -507,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0148-sort-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Trie
 |  |
@@ -551,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0148-sort-list) |
 ## Tournament Sort
 |  |
 | ------- |
