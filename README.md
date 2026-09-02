@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0179-largest-number) |
+| [0239-sliding-window-maximum](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0287-find-the-duplicate-number) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0187-repeated-dna-sequences) |
+| [0239-sliding-window-maximum](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0239-sliding-window-maximum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0239-sliding-window-maximum) |
 ## Merge Sort
 |  |
 | ------- |
@@ -661,8 +664,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0239-sliding-window-maximum) |
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0239-sliding-window-maximum) |
 | [0649-dota2-senate](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0649-dota2-senate) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
