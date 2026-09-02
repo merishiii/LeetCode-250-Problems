@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [2029-stone-game-ix](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Game Theory
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1386-cinema-seat-allocation](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1386-cinema-seat-allocation) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0316-remove-duplicate-letters) |
+| [0387-first-unique-character-in-a-string](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0649-dota2-senate) |
 | [1021-remove-outermost-parentheses](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1903-largest-odd-number-in-string) |
@@ -675,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0239-sliding-window-maximum) |
 | [0341-flatten-nested-list-iterator](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0341-flatten-nested-list-iterator) |
+| [0387-first-unique-character-in-a-string](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0649-dota2-senate) |
 ## Monotonic Queue
 |  |
