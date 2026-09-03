@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Greedy
 |  |
 | ------- |
