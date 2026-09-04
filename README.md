@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0321-create-maximum-number](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0321-create-maximum-number) |
+| [0330-patching-array](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0376-wiggle-subsequence) |
 | [0641-design-circular-deque](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0641-design-circular-deque) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0321-create-maximum-number) |
+| [0330-patching-array](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0397-integer-replacement) |
