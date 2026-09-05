@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sliding Window
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Divide and Conquer
 |  |
@@ -746,4 +748,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0324-wiggle-sort-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
