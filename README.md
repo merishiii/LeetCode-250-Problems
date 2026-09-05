@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0376-wiggle-subsequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0641-design-circular-deque](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0641-design-circular-deque) |
 | [1140-stone-game-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1386-cinema-seat-allocation) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0268-missing-number](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1872-stone-game-viii) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0324-wiggle-sort-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Divide and Conquer
