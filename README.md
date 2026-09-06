@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0287-find-the-duplicate-number) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Hash Table
 |  |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0079-word-search) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Backtracking
 |  |
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0133-clone-graph) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bidirectional Search
@@ -552,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -639,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0239-sliding-window-maximum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Merge Sort
 |  |
 | ------- |
