@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0409-longest-palindrome) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1386-cinema-seat-allocation) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0409-longest-palindrome) |
 | [0649-dota2-senate](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0649-dota2-senate) |
 | [1021-remove-outermost-parentheses](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1021-remove-outermost-parentheses) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0239-sliding-window-maximum](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0239-sliding-window-maximum) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
