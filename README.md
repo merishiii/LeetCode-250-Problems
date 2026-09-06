@@ -439,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0133-clone-graph) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3310-remove-methods-from-project) |
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Depth-First Search
 |  |
@@ -578,11 +580,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0669-trim-a-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1382-balance-a-binary-search-tree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0133-clone-graph) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3310-remove-methods-from-project) |
 | [3620-network-recovery-pathways](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3620-network-recovery-pathways) |
