@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0409-longest-palindrome) |
 | [0649-dota2-senate](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0649-dota2-senate) |
+| [0940-distinct-subsequences-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1903-largest-odd-number-in-string) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0140-word-break-ii) |
 | [0376-wiggle-subsequence](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0397-integer-replacement) |
+| [0940-distinct-subsequences-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1510-stone-game-iv](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1510-stone-game-iv) |
