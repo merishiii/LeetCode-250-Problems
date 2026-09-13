@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0641-design-circular-deque](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0641-design-circular-deque) |
+| [0835-image-overlap](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1386-cinema-seat-allocation](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1386-cinema-seat-allocation) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0079-word-search) |
+| [0835-image-overlap](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0835-image-overlap) |
 | [1301-number-of-paths-with-max-score](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
