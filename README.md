@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Minimax
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [2029-stone-game-ix](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2029-stone-game-ix) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Game Theory
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3483-unique-3-digit-even-numbers) |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -406,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3536-maximum-product-of-two-digits) |
