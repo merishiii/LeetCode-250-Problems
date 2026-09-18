@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0179-largest-number) |
+| [0212-word-search-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0212-word-search-ii) |
 | [0239-sliding-window-maximum](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0268-missing-number) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0212-word-search-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0835-image-overlap](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0835-image-overlap) |
 | [1301-number-of-paths-with-max-score](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1301-number-of-paths-with-max-score) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0212-word-search-ii) |
 ## Algorithm X
 |  |
 | ------- |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0205-isomorphic-strings) |
+| [0212-word-search-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0212-word-search-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0316-remove-duplicate-letters) |
@@ -688,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0014-longest-common-prefix) |
 | [0140-word-break-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0212-word-search-ii) |
 ## Memoization
 |  |
 | ------- |
