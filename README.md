@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0212-word-search-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0301-remove-invalid-parentheses) |
 ## Algorithm X
 |  |
 | ------- |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0273-integer-to-english-words) |
+| [0301-remove-invalid-parentheses](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0316-remove-duplicate-letters) |
 | [0387-first-unique-character-in-a-string](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0402-remove-k-digits) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0133-clone-graph) |
+| [0301-remove-invalid-parentheses](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
