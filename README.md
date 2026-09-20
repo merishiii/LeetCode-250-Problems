@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0641-design-circular-deque](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0641-design-circular-deque) |
 | [0835-image-overlap](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0835-image-overlap) |
+| [0877-stone-game](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1386-cinema-seat-allocation](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1386-cinema-seat-allocation) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0273-integer-to-english-words) |
 | [0464-can-i-win](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0464-can-i-win) |
 | [0628-maximum-product-of-three-numbers](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1872-stone-game-viii) |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0464-can-i-win) |
+| [0877-stone-game](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1872-stone-game-viii) |
@@ -225,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1872-stone-game-viii) |
@@ -558,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0397-integer-replacement) |
 | [0464-can-i-win](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0464-can-i-win) |
+| [0877-stone-game](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1301-number-of-paths-with-max-score) |
