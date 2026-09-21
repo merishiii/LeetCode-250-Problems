@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3483-unique-3-digit-even-numbers) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
