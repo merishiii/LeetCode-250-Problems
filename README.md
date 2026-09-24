@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0336-palindrome-pairs](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0336-palindrome-pairs) |
 | [0376-wiggle-subsequence](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0376-wiggle-subsequence) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0502-ipo](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0605-can-place-flowers) |
 | [0622-design-circular-queue](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0622-design-circular-queue) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0273-integer-to-english-words) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0464-can-i-win](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0464-can-i-win) |
 | [0628-maximum-product-of-three-numbers](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0877-stone-game) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0268-missing-number) |
 | [0336-palindrome-pairs](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0336-palindrome-pairs) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0387-first-unique-character-in-a-string](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0409-longest-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -869,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0341-flatten-nested-list-iterator](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0341-flatten-nested-list-iterator) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0622-design-circular-queue](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0641-design-circular-deque) |
 ## Iterator
@@ -945,4 +949,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0352-data-stream-as-disjoint-intervals) |
+## Randomized
+|  |
+| ------- |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 <!---LeetCode Topics End-->
