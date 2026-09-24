@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0268-missing-number) |
 | [0336-palindrome-pairs](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0336-palindrome-pairs) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0387-first-unique-character-in-a-string](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0409-longest-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -672,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -814,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Sprague–Grundy Theorem
@@ -864,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0341-flatten-nested-list-iterator](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0341-flatten-nested-list-iterator) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0622-design-circular-queue](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0641-design-circular-deque) |
 ## Iterator
@@ -936,4 +941,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0464-can-i-win) |
+## Data Stream
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0352-data-stream-as-disjoint-intervals) |
 <!---LeetCode Topics End-->
