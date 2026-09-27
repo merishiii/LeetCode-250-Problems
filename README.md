@@ -418,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -639,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1021-remove-outermost-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## String Matching
 |  |
 | ------- |
@@ -674,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0402-remove-k-digits) |
 | [1021-remove-outermost-parentheses](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Simulation
 |  |
 | ------- |
