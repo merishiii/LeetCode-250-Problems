@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0376-wiggle-subsequence](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0376-wiggle-subsequence) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0486-predict-the-winner](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0486-predict-the-winner) |
 | [0502-ipo](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0605-can-place-flowers) |
 | [0622-design-circular-queue](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0622-design-circular-queue) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0273-integer-to-english-words) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0464-can-i-win](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0464-can-i-win) |
+| [0486-predict-the-winner](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1140-stone-game-ii) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1406-stone-game-iii) |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0464-can-i-win) |
+| [0486-predict-the-winner](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1406-stone-game-iii) |
@@ -263,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1406-stone-game-iii) |
@@ -632,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0397-integer-replacement) |
 | [0464-can-i-win](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0464-can-i-win) |
+| [0486-predict-the-winner](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0940-distinct-subsequences-ii) |
@@ -666,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0273-integer-to-english-words) |
+| [0486-predict-the-winner](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/merishiii/LeetCode-250-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Bracket Sequences
 |  |
