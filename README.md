@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0273-integer-to-english-words) |
+| [0365-water-and-jug-problem](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0365-water-and-jug-problem) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0464-can-i-win](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0486-predict-the-winner) |
@@ -593,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0133-clone-graph) |
 | [0301-remove-invalid-parentheses](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0365-water-and-jug-problem](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0365-water-and-jug-problem) |
 | [1096-brace-expansion-ii](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -779,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0133-clone-graph) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0341-flatten-nested-list-iterator](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0341-flatten-nested-list-iterator) |
+| [0365-water-and-jug-problem](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0365-water-and-jug-problem) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0669-trim-a-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1382-balance-a-binary-search-tree) |
@@ -950,11 +953,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0149-max-points-on-a-line) |
+| [0365-water-and-jug-problem](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0365-water-and-jug-problem) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0149-max-points-on-a-line) |
+| [0365-water-and-jug-problem](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0365-water-and-jug-problem) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/merishiii/LeetCode-250-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Design
 |  |
@@ -1052,4 +1057,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/merishiii/LeetCode-250-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0365-water-and-jug-problem) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/merishiii/LeetCode-250-Problems/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
